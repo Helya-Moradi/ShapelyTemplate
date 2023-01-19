@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url(../public/font/Raleway-Black.ttf);
+    font-weight: bolder;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url(../public/font/Raleway-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url(../public/font/Raleway-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url(../public/font/Raleway-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url(../public/font/Raleway-ExtraLight.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url(../public/font/Raleway-Thin.ttf);
+    font-weight: 100;
+}
+
+.App {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}

@@ -1,0 +1,67 @@
+.main-container {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 110px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 300;
+    color: #fff;
+}
+
+.withBtn{
+    background-image: url(../../../public/img/photo-1452723312111-3a7d0db0e024.jpg);
+}
+
+.withImg{
+    background-image: url(../../../public/img/photo-1451417379553-15d8e8f49cde.jpg);
+}
+
+.parallax {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: 300;
+    margin: 0;
+}
+
+.text {
+    width: 70%;
+    margin-bottom: 40px;
+    font-size: 14px;
+}
+
+.imageContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img {
+    width: 110px;
+    border-radius: 50%;
+}
+
+.icon {
+    color: gray;
+    cursor: pointer;
+}
+
+@media screen and (max-width:778px) {
+    .title {
+        font-size: 30px;
+    }
+
+    .text {
+        width: 100%;
+    }
+}

@@ -1,0 +1,25 @@
+.mainContainer{
+   width: 100%;
+   text-align: center;
+}
+
+.title{
+  font-size: 30px;
+  font-weight: 300;
+  padding: 70px 0;
+}
+
+.clients{
+  padding-bottom: 80px;
+  display: flex;
+}
+
+@media screen and (max-width:768px) {
+    .title{
+        font-size: 23px;
+      }
+
+      .clients{
+        display: block;
+      }
+}

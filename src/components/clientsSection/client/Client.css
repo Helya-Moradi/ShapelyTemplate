@@ -1,0 +1,23 @@
+.clientImage {
+    width: 25%;
+    opacity: .5;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.clientImage:hover {
+    opacity: 1;
+}
+
+/* @media screen and (max-width:986px) {
+    .clientImage {
+        width: 9%;
+    }
+} */
+
+@media screen and (max-width:768px) {
+    .clientImage {
+        width: 25%;
+        padding: 14px;
+    }
+}

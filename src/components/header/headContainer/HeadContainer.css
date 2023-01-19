@@ -1,0 +1,52 @@
+.headContainerBg {
+    background: url(../../../../public/img/sea-bg.jpg);
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.headContainer {
+    text-align: center;
+    margin: 30px auto;
+    color: #fff;
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.headContainerHeader {
+    font-size: 65px;
+    font-weight: 300;
+    margin: 0;
+}
+
+.headContainerText {
+    font-weight: 300;
+}
+
+.btnContainer{
+   margin-top: 20px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: center;
+   gap: 10px;
+   width: 100%;
+}
+
+
+@media screen and (max-width:768px) {
+    .headContainerHeader {
+        font-size: 32px;
+    }
+    .headContainer {
+        width: 90%;
+    }
+}

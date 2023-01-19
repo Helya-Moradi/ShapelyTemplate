@@ -1,0 +1,30 @@
+.projectsContainer{
+    text-align: center;
+    color: #fff;
+    background-color: #0e1015;
+    font-weight: 300;
+}
+
+.projectsTitle{
+    margin: 0;
+    padding-top : 60px;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.projectsText{
+   margin: 0;
+   padding: 35px;
+}
+
+.projects{
+   display: flex;
+   flex-wrap: wrap;
+   align-items:stretch;
+}
+
+@media screen and (max-width:768px) {
+    .projectsTitle{
+        font-size: 23px;
+    }    
+}
