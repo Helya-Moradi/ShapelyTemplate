@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ShapelyTemplate/static/css/main.3ac01fe7.css",
+    "main.js": "/ShapelyTemplate/static/js/main.318ec7f9.js",
+    "static/js/787.3f164827.chunk.js": "/ShapelyTemplate/static/js/787.3f164827.chunk.js",
+    "static/media/sea-bg.jpg": "/ShapelyTemplate/static/media/sea-bg.3176408e675c5314741e.jpg",
+    "static/media/photo-1452723312111-3a7d0db0e024.jpg": "/ShapelyTemplate/static/media/photo-1452723312111-3a7d0db0e024.b2dd1b863dfff475cc7e.jpg",
+    "static/media/photo-1451417379553-15d8e8f49cde.jpg": "/ShapelyTemplate/static/media/photo-1451417379553-15d8e8f49cde.3872f078faf9c2366d53.jpg",
+    "static/media/Raleway-ExtraLight.ttf": "/ShapelyTemplate/static/media/Raleway-ExtraLight.e19d39bd2c0c5f58ffea.ttf",
+    "static/media/Raleway-Light.ttf": "/ShapelyTemplate/static/media/Raleway-Light.58bcdae09d89ccd8d086.ttf",
+    "static/media/Raleway-Medium.ttf": "/ShapelyTemplate/static/media/Raleway-Medium.601cda68c7b7bbcc9a12.ttf",
+    "static/media/Raleway-Bold.ttf": "/ShapelyTemplate/static/media/Raleway-Bold.18960343b3da49bfd353.ttf",
+    "static/media/Raleway-Thin.ttf": "/ShapelyTemplate/static/media/Raleway-Thin.37b903083fc82c0bdc17.ttf",
+    "static/media/Raleway-Black.ttf": "/ShapelyTemplate/static/media/Raleway-Black.6d75f2b870b0a5df344d.ttf",
+    "index.html": "/ShapelyTemplate/index.html",
+    "main.3ac01fe7.css.map": "/ShapelyTemplate/static/css/main.3ac01fe7.css.map",
+    "main.318ec7f9.js.map": "/ShapelyTemplate/static/js/main.318ec7f9.js.map",
+    "787.3f164827.chunk.js.map": "/ShapelyTemplate/static/js/787.3f164827.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac01fe7.css",
+    "static/js/main.318ec7f9.js"
+  ]
+}
